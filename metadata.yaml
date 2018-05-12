@@ -1,0 +1,38 @@
+_repo: Sara-Crewe--Or-What-Happened-at-Miss-Minchin-s_24772
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Sara Crewe was the star pupil at Miss Minchin's Select Seminary for Young
+  Ladies until her father lost all his money and died. After that sad turn of events,
+  she was relegated to the school's attic, a drudge and outcast.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Fiction'
+title: Sara Crewe; Or, What Happened at Miss Minchin's
+url: http://www.gutenberg.org/ebooks/24772
